@@ -122,7 +122,7 @@ const videoUpload = async (
     onUploadProgress: (event) => {
       if(showUploadProgress) {
         const progress = Math.round((event.bytesRead / videoSize) * 100);
-        console.info(`${progress}%`);
+        console.info(`Uploading video progress: ${progress}%`);
       }
     }
   });
