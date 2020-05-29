@@ -1,0 +1,26 @@
+{
+  "name": "express-youtube-video-upload",
+  "version": "1.0.0",
+  "description": "\"NPM Package used for uploading youtube videos.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"youtube video upload\"",
+    "\"youtube",
+    "api\"",
+    "\"youtube",
+    "video",
+    "upload\"",
+    "\"video",
+    "upload video youtube\"]"
+  ],
+  "author": "nmaties",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^49.0.0",
+    "open": "^7.0.4"
+  }
+}
