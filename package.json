@@ -1,21 +1,24 @@
 {
-  "name": "express-youtube-video-upload",
-  "version": "1.0.0",
-  "description": "\"NPM Package used for uploading youtube videos.\"",
+  "name": "youtube-video-upload",
+  "version": "1.0.1",
+  "description": "NPM Package used for uploading youtube videos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "[\"youtube video upload\"",
-    "\"youtube",
-    "api\"",
-    "\"youtube",
-    "video",
-    "upload\"",
-    "\"video",
-    "upload video youtube\"]"
+    "youtube video upload",
+    "youtube upload",
+    "youtube api",
+    "youtube api v3",
+    "node video upload",
+    "video upload youtube",
+    "upload youtube api"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/nmaties/youtube-video-upload"
+  },
   "author": "nmaties",
   "license": "ISC",
   "dependencies": {
