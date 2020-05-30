@@ -1,12 +1,12 @@
 
-# EXPRESS-YOUTUBE-VIDEO-UPLOADER
+# YOUTUBE-VIDEO-UPLOADER
 ### Instalation
 ```
- npm install express-youtube-video-uploader --save
+ npm install youtube-video-uploader --save
 ```
 ### Import
 ```
- const { videoUpload } = require('express-youtube-video-uploader');
+ const { videoUpload } = require('youtube-video-uploader');
 ```
 
 ### Usage
