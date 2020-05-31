@@ -1,5 +1,5 @@
 {
-  "name": "youtube-video-uploader",
+  "name": "video-uploader-youtube",
   "version": "1.0.1",
   "description": "NPM Package used for uploading youtube videos",
   "main": "index.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/nmaties/youtube-video-upload"
+    "url" : "https://github.com/nmaties/video-uploader-youtube"
   },
   "author": "nmaties",
   "license": "ISC",
