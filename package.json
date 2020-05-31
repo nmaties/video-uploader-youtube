@@ -1,5 +1,5 @@
 {
-  "name": "youtube-video-upload",
+  "name": "youtube-video-uploader",
   "version": "1.0.1",
   "description": "NPM Package used for uploading youtube videos",
   "main": "index.js",
