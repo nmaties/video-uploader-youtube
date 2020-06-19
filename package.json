@@ -19,7 +19,7 @@
     "type" : "git",
     "url" : "https://github.com/nmaties/video-uploader-youtube"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "nmaties",
   "license": "ISC",
   "dependencies": {
